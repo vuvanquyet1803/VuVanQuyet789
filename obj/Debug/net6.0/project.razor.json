@@ -16298,6 +16298,11 @@
   "RootNamespace": "VuVanQuyet789",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\Quyet\\VuVanQuyet789\\Views\\Company\\Delete.cshtml",
+      "TargetPath": "Views\\Company\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Quyet\\VuVanQuyet789\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
@@ -16318,6 +16323,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Quyet\\VuVanQuyet789\\Views\\Company\\Details.cshtml",
+      "TargetPath": "Views\\Company\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Quyet\\VuVanQuyet789\\Views\\Company\\Edit.cshtml",
+      "TargetPath": "Views\\Company\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Quyet\\VuVanQuyet789\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
@@ -16328,8 +16343,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Quyet\\VuVanQuyet789\\Views\\Company\\Create.cshtml",
+      "TargetPath": "Views\\Company\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Quyet\\VuVanQuyet789\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Quyet\\VuVanQuyet789\\Views\\Company\\Index.cshtml",
+      "TargetPath": "Views\\Company\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],

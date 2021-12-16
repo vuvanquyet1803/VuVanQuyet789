@@ -1,4 +1,9 @@
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddDbContext<VuVanQuyet789Context>(options =>
+    options.UseSqlite(builder.Configuration.GetConnectionString("VuVanQuyet789Context")));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
