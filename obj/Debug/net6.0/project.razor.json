@@ -16333,8 +16333,33 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Quyet\\VuVanQuyet789\\Views\\VVQ0789\\Create.cshtml",
+      "TargetPath": "Views\\VVQ0789\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Quyet\\VuVanQuyet789\\Views\\VVQ0789\\Index.cshtml",
+      "TargetPath": "Views\\VVQ0789\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Quyet\\VuVanQuyet789\\Views\\VVQ0789\\Edit.cshtml",
+      "TargetPath": "Views\\VVQ0789\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Quyet\\VuVanQuyet789\\Views\\VVQ0789\\Delete.cshtml",
+      "TargetPath": "Views\\VVQ0789\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Quyet\\VuVanQuyet789\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Quyet\\VuVanQuyet789\\Views\\VVQ0789\\Details.cshtml",
+      "TargetPath": "Views\\VVQ0789\\Details.cshtml",
       "FileKind": "mvc"
     },
     {

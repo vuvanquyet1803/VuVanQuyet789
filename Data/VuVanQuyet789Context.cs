@@ -14,4 +14,6 @@ using VuVanQuyet789.Models;
         }
 
         public DbSet<VuVanQuyet789.Models.CompanyVVQ789> CompanyVVQ789 { get; set; }
+
+        public DbSet<VuVanQuyet789.Models.VVQ0789> VVQ0789 { get; set; }
     }

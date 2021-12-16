@@ -1,0 +1,47 @@
+@model IEnumerable<VuVanQuyet789.Models.VVQ0789>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Thêm mới</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.VVQId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VVQName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VVQGender)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.VVQId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VVQName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VVQGender)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.VVQId">Chính sửa</a> |
+                <a asp-action="Details" asp-route-id="@item.VVQId">Chi tiết</a> |
+                <a asp-action="Delete" asp-route-id="@item.VVQId">Xóa</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
